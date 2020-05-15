@@ -1,0 +1,12 @@
+{
+	"name": "vite-hot-accept",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"start": "vite"
+	},
+	"devDependencies": {
+		"vite": "^0.15.3"
+	}
+}
